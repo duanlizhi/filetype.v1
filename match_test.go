@@ -6,8 +6,8 @@ import (
 	"io/ioutil"
 	"testing"
 
-	"gopkg.in/h2non/filetype.v1/matchers"
-	"gopkg.in/h2non/filetype.v1/types"
+	"github.com/duanlizhi/filetype.v1/matchers"
+	"github.com/duanlizhi/filetype.v1/types"
 )
 
 func TestMatch(t *testing.T) {
